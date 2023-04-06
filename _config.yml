@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Abduljelili Popoola"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate of Applied Physics (University of South Florida)"
   location         : "Tampa, Florida, USA"
-  employer         :
+  employer         : "University of South Florida"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=iVvkzu0AAAAJ&hl=en"
-  email            :
+  email            : "Popoolaabduljeleel2000@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Abduljelili-Popoola-2"
   uri              :
   bitbucket        :
@@ -106,10 +106,8 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
